@@ -17,6 +17,8 @@
 #define DEBUG_CODE
 #include "debug.h"
 
+// teste repositorio git
+
 void cadastro_arquivo1_xml(void);
 void cadastro_arquivo2_xml(void);
 void cadastro_arquivo3_xml(void);
